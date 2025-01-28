@@ -33,3 +33,5 @@ I focus on shaping the next generation of leaders, not just through academic exc
 
 > "Every child is born with a unique potential; as an educational leader, my mission is to provide the tools, guidance, and opportunities they need to discover their purpose and shine in their own extraordinary way."  
 — Mrs. Suman Kaushik
+
+<small><small>website template credit: HTML5UP</small></small>
