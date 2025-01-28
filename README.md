@@ -1,4 +1,5 @@
 # Suman Kaushik - Principal at Bal Bharti Vidya Peeth
+#### [Click to visit my profile](https://suman0976.github.io/portfolio/)
 
 Welcome to my profile! I am Suman Kaushik, an educational leader with over a decade of impactful leadership in the field of education. Currently serving as the Principal of **Bal Bharti Vidya Peeth Sr. Secondary School** in Gohana, Haryana, I have dedicated my career to creating an environment where students can thrive academically and personally.
 
